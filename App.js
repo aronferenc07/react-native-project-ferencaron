@@ -7,7 +7,7 @@ const KEZDO_BEJEGYZESEK = [
     id: '1',
     cim: 'Hétvégi kirándulás',
     hely: 'Dobogókő',
-    leiras: 'Gyönyörű kilátás a Dunakanyarra, tiszta időben a Tátra is látszik.',
+    leiras: 'Gyönyörű kilátás a Dunakanyarra, tiszta időben a Tátra is látszik.Gyönyörű kilátás a Dunakanyarra, tiszta időben a Tátra is látszik.Gyönyörű kilátás a Dunakanyarra, tiszta időben a Tátra is látszik.',
   },
   {
     id: '2',
